@@ -1,2 +1,1 @@
-# earthquake prediction
-
+Change the file path in code file

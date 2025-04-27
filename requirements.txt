@@ -1,0 +1,24 @@
+# QuakeSense: Advanced Earthquake Prediction System
+# Requirements File
+
+# Core requirements
+numpy>=1.19.5
+pandas>=1.3.5
+matplotlib>=3.5.1
+scikit-learn>=1.0.2
+
+# UI requirements
+#tkinter  # Usually comes with Python installation
+
+# Map visualization
+folium>=0.12.1
+
+# Machine learning dependencies
+joblib>=1.1.0
+scipy>=1.7.3
+
+# Data handling
+openpyxl>=3.0.9  # For Excel file support if needed
+
+
+# python main.py
